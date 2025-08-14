@@ -1,0 +1,367 @@
+ERROR:    Failure downloading Rude Boy
+ERROR:    Error downloading!
+INFO:     ::1:49480 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F60jzFy6Nn4M0iD1d94oteF&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=9sFG4Ds0ASo
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=9sFG4Ds0ASo
+ERROR:    Failure downloading Delicate Problems
+ERROR:    Error downloading!
+INFO:     ::1:49475 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F1e5ujtAsy26T7Dl5iNFj7q&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=tsxZ3vdDTgs
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=tsxZ3vdDTgs
+ERROR:    Failure downloading I Want It All
+ERROR:    Error downloading!
+INFO:     ::1:49495 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F165mYGd3F0uSyPxzp0bcmv&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://www.youtube.com/watch?v=8uwfr3Tyuno
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://www.youtube.com/watch?v=8uwfr3Tyuno
+ERROR:    Failure downloading Matadora (Medina Remix)
+ERROR:    Error downloading!
+INFO:     ::1:49487 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F10bd6R7QRiOJCjlCvYGpOw&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=domjqjQ_WRI
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=domjqjQ_WRI
+ERROR:    Failure downloading The Unforgiven (Remastered)
+ERROR:    Error downloading!
+INFO:     ::1:49480 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F7lwvxYumAEo10lzAplRGXM&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=dtHuqY679io
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=dtHuqY679io
+ERROR:    Failure downloading Until It Sleeps
+ERROR:    Error downloading!
+INFO:     ::1:49490 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F63aVbch5VRXtQnCITdeDTZ&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=4JIZH8W3dGc
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=4JIZH8W3dGc
+ERROR:    Failure downloading Breathe You Out
+ERROR:    Error downloading!
+INFO:     ::1:49495 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F2INYnyZT9o2qoQmMzwPLUX&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://www.youtube.com/watch?v=RFfrKXLL-ig
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://www.youtube.com/watch?v=RFfrKXLL-ig
+ERROR:    Failure downloading Aliaa
+ERROR:    Error downloading!
+INFO:     ::1:49475 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F4C8RaLyYGOz1NRfxIjZNNM&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=pCd0NreebBM
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=pCd0NreebBM
+ERROR:    Failure downloading In the Air Tonight
+ERROR:    Error downloading!
+INFO:     ::1:49487 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F5PJ7hsxWicywZjmZhD7rRs&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=2tQDG0mWwWA
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=2tQDG0mWwWA
+ERROR:    Failure downloading Early Morning Dreams
+ERROR:    Error downloading!
+INFO:     ::1:49480 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F3ytlnbdjd95A3lfTs1k9Gn&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://www.youtube.com/watch?v=oLnFLsIDLic
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://www.youtube.com/watch?v=oLnFLsIDLic
+ERROR:    Failure downloading Dark Horse
+ERROR:    Error downloading!
+INFO:     ::1:49582 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F5jrdCoLpJSvHHorevXBATy&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=9PpXu-2fPHc
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=9PpXu-2fPHc
+ERROR:    Failure downloading Dream On
+ERROR:    Error downloading!
+INFO:     ::1:49495 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F1xsYj84j7hUDDnTTerGWlH&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=d_eH6wE5Kqo
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=d_eH6wE5Kqo
+ERROR:    Failure downloading Turn The Page
+ERROR:    Error downloading!
+INFO:     ::1:49480 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F7HPhrbgMHV5cUskknWA2oo&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=SRbA_JzFKuA
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=SRbA_JzFKuA
+ERROR:    Failure downloading Never Too Late
+ERROR:    Error downloading!
+INFO:     ::1:49475 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F3HE50TVRquwXe9yv2HFoNL&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=CJxxaY9mNH4
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=CJxxaY9mNH4
+ERROR:    Failure downloading Psychedelic Addict
+ERROR:    Error downloading!
+INFO:     ::1:49582 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F3OnoPhq6bY8vXWuP2aA5LN&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=zz8frWcmthA
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=zz8frWcmthA
+ERROR:    Failure downloading Another Brick in the Wall, Pt. 2
+ERROR:    Error downloading!
+INFO:     ::1:49487 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F4gMgiXfqyzZLMhsksGmbQV&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=Z-u6p6iHZto
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=Z-u6p6iHZto
+ERROR:    Failure downloading See the Light - Rework
+ERROR:    Error downloading!
+INFO:     ::1:49495 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F7z773DeairY3yh0TpHh1bk&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=-X1TfA7-sno
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=-X1TfA7-sno
+ERROR:    Failure downloading Angetenar
+ERROR:    Error downloading!
+INFO:     ::1:49480 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F1djh7DdNiRHdGFj5ils3BN&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://www.youtube.com/watch?v=luity3dx_O0
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://www.youtube.com/watch?v=luity3dx_O0
+ERROR:    Failure downloading Early Morning Dreams - MONUMENTAL version
+ERROR:    Error downloading!
+INFO:     ::1:49475 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F64GOc1EJpogpNGvGlK4Zs3&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=QXlrtXdvjts
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=QXlrtXdvjts
+ERROR:    Failure downloading Stardust (Intro)
+ERROR:    Error downloading!
+INFO:     ::1:49582 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F2fIVAH4DJ3E7tg1RsdQGr1&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=j-Mrg7aFoL4
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=j-Mrg7aFoL4
+ERROR:    Failure downloading Line of Fire - Radio Edit
+ERROR:    Error downloading!
+INFO:     ::1:49487 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F7BdgHfzvoSS43chqN1kKqB&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=AmqVazC6wpU
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=AmqVazC6wpU
+ERROR:    Failure downloading Left Alone
+ERROR:    Error downloading!
+INFO:     ::1:49495 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F7c2OwHQDTgaWABFEieehdG&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=qVr-UDMbS60
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=qVr-UDMbS60
+ERROR:    Failure downloading Inner Galactic Lovers (Kutiman Mixes Fiverr) - Spada Remix Radio Edit
+ERROR:    Error downloading!
+INFO:     ::1:49480 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F3uiD0vkyFOw9up7aOECcE4&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=7DW_o59JDT4
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=7DW_o59JDT4
+ERROR:    Failure downloading Dirty Clone
+ERROR:    Error downloading!
+INFO:     ::1:49582 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F60LQ07Y2r050sktoyLuGlW&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=aaL9S6um7Go
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=aaL9S6um7Go
+ERROR:    Failure downloading Love Me - 4ЯR & Cutneck Remix
+ERROR:    Error downloading!
+INFO:     ::1:49475 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F7wBsua0Fr50vOEHzABrlsc&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=2C-7N3JVIpk
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=2C-7N3JVIpk
+ERROR:    Failure downloading You're Mine
+ERROR:    Error downloading!
+INFO:     ::1:49487 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F1VSqQykTamK4ubyZV7p8Bp&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=1MReaBgB4Lg
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=1MReaBgB4Lg
+ERROR:    Failure downloading Get Back - Alin Dimitriu Remix
+ERROR:    Error downloading!
+INFO:     ::1:49495 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F62TLqQyoUvSah8kvGu4uEt&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=juN9KvkskA8
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=juN9KvkskA8
+ERROR:    Failure downloading Under Your Skin
+ERROR:    Error downloading!
+INFO:     ::1:49582 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F4MiuED0htnkzHVugCGCCMO&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=Exv9hCPcW5w
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=Exv9hCPcW5w
+ERROR:    Failure downloading Love That Hurts
+ERROR:    Error downloading!
+INFO:     ::1:49480 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F5kBUIe8UcUUGLzP4hoc8XJ&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=YdbIS23YS9s
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=YdbIS23YS9s
+ERROR:    Failure downloading Damballah
+ERROR:    Error downloading!
+INFO:     ::1:49475 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F7lkuLtqGY27K6MW4uwlEZO&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=PnD1-knBI2s
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=PnD1-knBI2s
+ERROR:    Failure downloading Don't Be Afraid
+ERROR:    Error downloading!
+INFO:     ::1:49487 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F4eitpcNa44f675F5uT5uda&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=gU-Wi9kZLXw
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=gU-Wi9kZLXw
+ERROR:    Failure downloading Gaian Portal
+ERROR:    Error downloading!
+INFO:     ::1:49495 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F3YSmLyFIWV2wTdIX0lmbpv&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=awmQ1QrhBaY
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=awmQ1QrhBaY
+ERROR:    Failure downloading Back in Your Life
+ERROR:    Error downloading!
+INFO:     ::1:49582 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F6ZSfm3D5H16v1GocnJin7n&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=EkoM65VLdJs
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=EkoM65VLdJs
+ERROR:    Failure downloading Lonely
+ERROR:    Error downloading!
+INFO:     ::1:49480 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F30hKEQLgr25oI91btWLvCi&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=1Nhdru3Qgs0
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=1Nhdru3Qgs0
+ERROR:    Failure downloading Supersede
+ERROR:    Error downloading!
+INFO:     ::1:49475 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F7MZLPKriK0CMy6a0ovE1Ca&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=DLbv8JM_pH4
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=DLbv8JM_pH4
+ERROR:    Failure downloading 6 Days
+ERROR:    Error downloading!
+INFO:     ::1:49487 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F5ilKR6ucV43TXQFLoLVpsb&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+LookupError: No results found for song: DJ Dark - Nentori (feat. Arilena Ara)
+ERROR:spotdl.download.progress_handler:LookupError: No results found for song: DJ Dark - Nentori (feat. Arilena Ara)
+ERROR:    Failure downloading Nentori (feat. Arilena Ara)
+ERROR:    Error downloading!
+INFO:     ::1:49495 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F6IluCTRwb67xmoxSKu5MyK&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=26_qVa0jYtg
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=26_qVa0jYtg
+ERROR:    Failure downloading Nuh Know Dem
+ERROR:    Error downloading!
+INFO:     ::1:49480 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F068lybcksdTS5nJcXsLDeP&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=rO5TYNLBJS4
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=rO5TYNLBJS4
+ERROR:    Failure downloading Sabah
+ERROR:    Error downloading!
+INFO:     ::1:49475 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F1meQbXZnwmETZzwgHMj7dt&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+Skipping Solidmind - Lamia (file already exists) (duplicate)
+INFO:spotdl.download.downloader:Skipping Solidmind - Lamia (file already exists) (duplicate)
+Solidmind - Lamia: Skipped
+INFO:spotdl.download.progress_handler:Solidmind - Lamia: Skipped
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+INFO:     ::1:49495 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F7y0z9r7DqNGr4IGmobP0fM&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 200 OK
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=fSKtPBRV1gE
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=fSKtPBRV1gE
+ERROR:    Failure downloading PILLOWTALK
+ERROR:    Error downloading!
+INFO:     ::1:49582 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F0PDUDa38GO8lMxLCRc4lL1&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=02YSGcqKsl8
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=02YSGcqKsl8
+ERROR:    Failure downloading Eternal Roots
+ERROR:    Error downloading!
+INFO:     ::1:49480 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F6FhUtyw0Y8q1xR22XlFNXg&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=MMSWF3RwmQY
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=MMSWF3RwmQY
+ERROR:    Failure downloading Luyana
+ERROR:    Error downloading!
+INFO:     ::1:49475 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F6hjy2oeqJEFk7Mq0PmxZZa&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://www.youtube.com/watch?v=pSv6AscZr7g
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://www.youtube.com/watch?v=pSv6AscZr7g
+ERROR:    Failure downloading Mielofon Space - Dandara Remix
+ERROR:    Error downloading!
+INFO:     ::1:49487 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F5eAsNZxKKRuQTk9Ykg5VOV&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://www.youtube.com/watch?v=6F1dRDLOruk
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://www.youtube.com/watch?v=6F1dRDLOruk
+ERROR:    Failure downloading Think
+ERROR:    Error downloading!
+INFO:     ::1:49490 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F4NpC4SOnLCBEUVOGnWIucV&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=nTV0AtUynx0
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=nTV0AtUynx0
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+ERROR:    Failure downloading Elif Eru
+ERROR:    Error downloading!
+INFO:     ::1:49480 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F7nnV9FL0UUCBxdsX6Jjg4R&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=0pwY_clojOw
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=0pwY_clojOw
+ERROR:    Failure downloading Home
+ERROR:    Error downloading!
+INFO:     ::1:49582 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F6KxQRaFCrG3Jrm5jpRcpq8&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=JTE3NzBkcJI
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=JTE3NzBkcJI
+ERROR:    Failure downloading Beli
+ERROR:    Error downloading!
+INFO:     ::1:49475 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F47TYGRYIBHJqcdcbuzBWgE&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=kKWE93LCMBs
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=kKWE93LCMBs
+ERROR:    Failure downloading Cafe De Anatolia
+ERROR:    Error downloading!
+INFO:     ::1:49487 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F5xu3vYCpi6qdWVMNmAJQEq&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+Skipping Lemurian - Lamu Roots (file already exists) (duplicate)
+INFO:spotdl.download.downloader:Skipping Lemurian - Lamu Roots (file already exists) (duplicate)
+Lemurian - Lamu Roots: Skipped
+INFO:spotdl.download.progress_handler:Lemurian - Lamu Roots: Skipped
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+INFO:     ::1:49582 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F57WcQs1zYSQUzILEJ7KKAa&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 200 OK
+2/0 complete
+INFO:spotdl.download.progress_handler:2/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=QUcinWoJaXo
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=QUcinWoJaXo
+ERROR:    Failure downloading Altered state
+ERROR:    Error downloading!
+INFO:     ::1:49490 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F4IO9TPu9voiTTypQtYf6aC&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+1/0 complete
+INFO:spotdl.download.progress_handler:1/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=5BlmigWg0XY
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=5BlmigWg0XY
+ERROR:    Failure downloading Flood - Original Mix
+ERROR:    Error downloading!
+INFO:     ::1:49480 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F69Z5dnI0Khw9iwqZJty9T0&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
+2/0 complete
+INFO:spotdl.download.progress_handler:2/0 complete
+AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=XWKPEhFZLDU
+ERROR:spotdl.download.progress_handler:AudioProviderError: YT-DLP download error - https://music.youtube.com/watch?v=XWKPEhFZLDU
+ERROR:    Failure downloading Dâr-ı Dünya
+ERROR:    Error downloading!
+INFO:     ::1:49475 - "POST /api/download/url?url=https:%2F%2Fopen.spotify.com%2Ftrack%2F4RJY7X7EgYVKYv0Fp1XJ3z&client_id=f658bb1b-c85e-4414-a845-2dfc0483e28a HTTP/1.1" 500 Internal Server Error
